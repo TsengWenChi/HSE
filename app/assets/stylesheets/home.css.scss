@@ -79,13 +79,16 @@
   .carousel-caption h1,
   .carousel-caption .lead {
     margin: 0;
-    line-height: 1.25;
+    line-height: 1.75;
     font-size: 1.25;
     color: #fff;
     text-shadow: 0 4px 4px rgba(0,0,0,.4);
   }
   .carousel-caption .btn {
-    margin-top: 10px;
+    margin-top: 20px;
+    float: right;
+    width: 120px;
+    height: 35px;
   }
   .mc_embed_signup{
     background: transparent; 
